@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<a href="#intro">Overview</a> &#8226; <a href="#compat">Compatibility</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#components">Components</a> &#8226; <a href="#images">Screenshots</a> &#8226; <a href="#credits">Credits and Acknowledgements</a> &#8226; <a href="#versions">Version History</a></br>
+<a href="#intro">Overview</a> &#8226; <a href="#compat">Compatibility</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#components">Components</a> &#8226; &#8226; <a href="#componentslist">Components (alternative presentation)</a> <a href="#images">Screenshots</a> &#8226; <a href="#credits">Credits and Acknowledgements</a> &#8226; <a href="#versions">Version History</a></br>
 </div>
 
 <hr>
@@ -71,7 +71,7 @@ Classical game players are strongly recommended to also download and install the
 
 #### Notes
 
-*If you've previously installed the mod, remove it before extracting the new version. To do this, run **setup-mymod.exe**, uninstall all previously installed components and delete the :file_folder: **mymod** folder.*
+*If you've previously installed the mod, remove it before extracting the new version. To do this, run **`setup-mymod.exe`**, uninstall all previously installed components and delete the :file_folder: **mymod** folder.*
 
 *When installing or uninstalling, **do not close the DOS window** by clicking on the **X** button! Instead, press the **Enter** key whenever instructed to do so.*
 
@@ -118,7 +118,7 @@ Here is a chart listing options related to the installation process (Don't chang
 
 MYMOD for Windows is distributed as an extractable compressed archive and includes a WeiDU installer.
 
-Extract the contents of the mod archive into the folder of the game you wish to modify (*the folder which contains the "CHITIN.KEY" file*), using <a href="http://www.7-zip.org/download.html">7zip</a>, <a href="http://www.rarlab.com/download.htm">WinRAR</a>, or another file compression utility that handles .zip files. On successful extraction, there should be a :file_folder: mymod and a setup-mymod.exe file in your game folder. To install, simply double-click **`setup-mymod.exe`** and follow the instructions on screen.
+Extract the contents of the mod archive into the folder of the game you wish to modify (*the folder which contains the "CHITIN.KEY" file*), using <a href="http://www.7-zip.org/download.html">7zip</a>, <a href="http://www.rarlab.com/download.htm">WinRAR</a>, or another file compression utility that handles .zip files. On successful extraction, there should be a :file_folder: mymod folder and a setup-mymod.exe file in your game folder. To install, simply double-click **`setup-mymod.exe`** and follow the instructions on screen.
 
 Run **`setup-mymod.exe`** in your game folder to reinstall, uninstall or otherwise change the components settings.
 
@@ -160,25 +160,60 @@ In addition to the methods above for removing individual components, you can com
 The installer includes the following components. The number of each is the component *DESIGNATED* number which gives it a fixed install position and allows automated installers to specify component choices.<br /><br />
 
 
-#### 10. Composant 1 : blabbla
+#### 10. Component 1 : blabbla
 
-Composant 1 description.</br>
-
-## 
-
-#### 20 Composant 2 : blabbla
-
-Composant 2 description.</br>
+Component 1 description.</br>
 
 ## 
 
-#### 30 Composant 3 : blabbla
+#### 20 Component 2 : blabbla
 
-Composant 3 description.</br>
+Component 2 description.</br>
+
+## 
+
+#### 30 Component 3 : blabbla
+
+Component 3 description.</br>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
 <hr>
+
+
+## <a name="componentslist" id="componentslist"></a>Components
+
+The installer includes the following components. The number of each is the component *DESIGNATED* number which gives it a fixed install position and allows automated installers to specify component choices.<br /><br />
+
+><span style="margin-left: 50px;"><a href="#10">[10] Component 1 (main component)</a></span></br>
+><span style="margin-left: 50px;"><a href="#20">[20] Component 2</a></span></br>
+><span style="margin-left: 50px;"><a href="#50">[30] Component 3</a></span></br>
+
+
+## 
+
+<a name="0" id="10"></a>**10. Component 1 (main component)**<br />
+
+Component 1 description.</br>
+<div align="right"><a href="#componentslist">Back to components list</a></div>
+
+## 
+
+#### 20 Component 2
+
+Component 2 description.</br>
+<div align="right"><a href="#componentslist">Back to components list</a></div>
+
+## 
+
+#### 30 Component 3
+
+Component 3 description.</br>
+<div align="right"><a href="#componentslist">Back to components list</a></div>
+
+
+<hr>
+
 
 
 ## <a name="images" id="images"></a>Screenshots
@@ -211,7 +246,7 @@ Composant 3 description.</br>
 
 #### Programs/tools used in creation:
 
-- <a href=https://github.com/WeiDUorg/weidu/releases"><acronym title="Weimer Dialogue Utility">WeiDU</acronym></a>, by Wes Weimer, the bigg and Wisp.
+- <a href="https://github.com/WeiDUorg/weidu/releases"><acronym title="Weimer Dialogue Utility">WeiDU</acronym></a>, by Wes Weimer, the bigg and Wisp.
 - <a href="https://github.com/Argent77/NearInfinity/releases">Near Infinity</a>, by Jon Olav Hauglid, FredSRichardson, and Argent77.
 - <a href="http://www.shsforums.net/topic/31285-infinity-explorer-v085/">Infinity Explorer</a>, by Dmitry Jemerov / bigmoshi.
 - <a href="http://www.gibberlings3.net/tools/dltcep.php"><acronym title="Dragonlance Total Conversion Editor Pro">DLTCEP</acronym></a>, by Avenger.
