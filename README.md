@@ -7,7 +7,7 @@
 
 <div align="center"><h1>MYMOD</h1>
 
-<h3>A mod hosted by Spellhold Studios for Baldur's Gate II:ToB, Baldur's Gate Trilogy, BG2:EE and EET<h3>
+<h3>A mod hosted at Spellhold Studios for Baldur's Gate II:ToB, Baldur's Gate Trilogy, BG2:EE and EET<h3>
 
 </div><br />
 
@@ -200,7 +200,7 @@ The installer includes the following components. The number of each is the compo
 ><span style="margin-left: 50px;"><a href="#10">[10] Component 10 (main component)</a></span></br>
 ><span style="margin-left: 50px;"><a href="#20">[20] Component 20</a></span></br>
 ><span style="margin-left: 50px;"><a href="#30">[30] Component 30</a></span></br>
-><span style="margin-left: 50px;"><a href="#40">[30] ...</a></span></br>
+><span style="margin-left: 50px;"><a href="#40">[40] ...</a></span></br>
 
 
 ## 
