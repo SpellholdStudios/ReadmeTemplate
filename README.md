@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<a href="#intro">Overview</a> &#8226; <a href="#compat">Compatibility</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#components">Components</a> &#8226; &#8226; <a href="#componentslist">Components (alternative presentation)</a> <a href="#images">Screenshots</a> &#8226; <a href="#credits">Credits and Acknowledgements</a> &#8226; <a href="#versions">Version History</a></br>
+<a href="#intro">Overview</a> &#8226; <a href="#compat">Compatibility</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#components">Components</a> &#8226; <a href="#componentslist">Components (alternative presentation)</a> &#8226; <a href="#images">Screenshots</a> &#8226; <a href="#credits">Credits and Acknowledgements</a> &#8226; <a href="#versions">Version History</a></br>
 </div>
 
 <hr>
@@ -27,10 +27,20 @@
 
 Short mod description
 
+This is a readme file template for GitHub for mods developed and/or hosted at SHS. It is written in Markdown language. Although it is close enough to the HTML language, some formatting are not supported by GitHub, such as color display.
+
+For each section, I took over, whenever possible, elements of readmes already published in order to maintain a semblance of consistency in the terms used. You just have to do is keep the ones you need (list of compatible games, installation procedures according to the platform, list of tools used...) and, for the rest, replace "MYMOD" and "Author" by the name of the mod and its author, modify the links and fill in the appropriate texts. For some sections,I have been as exhaustive as possible: all you have to do is choose the paragraphs that interest you and delete the others.
+
+
 <details><summary>CLICK ME</summary>
 <p>
 
 #### yes, an hidden code block!
+
+GitHub markdown emoji listings:
+- <a href="https://gist.github.com/rxaviers/7360908">Complete list of github markdown emoji markup</a>.
+- <a href="https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji">GitHub-Dark Emoji (All GitHub Emoji)</a>.
+
 
 </p>
 </details><br>
@@ -160,60 +170,62 @@ In addition to the methods above for removing individual components, you can com
 The installer includes the following components. The number of each is the component *DESIGNATED* number which gives it a fixed install position and allows automated installers to specify component choices.<br /><br />
 
 
-#### 10. Component 1 : blabbla
+#### 10. Component 10 (main component)
 
-Component 1 description.</br>
-
-## 
-
-#### 20 Component 2 : blabbla
-
-Component 2 description.</br>
+Main component description.</br>
 
 ## 
 
-#### 30 Component 3 : blabbla
+#### 20 Component 20 : blabbla
 
-Component 3 description.</br>
+Component 20 description.</br>
+
+## 
+
+#### 30 Component 30 : blabbla
+
+Component 30 description.</br>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
 <hr>
 
 
-## <a name="componentslist" id="componentslist"></a>Components
+## <a name="componentslist" id="componentslist"></a>Components (alternative presentation for lots of components)
+
+To be used with a huge number of components. 
 
 The installer includes the following components. The number of each is the component *DESIGNATED* number which gives it a fixed install position and allows automated installers to specify component choices.<br /><br />
 
-><span style="margin-left: 50px;"><a href="#10">[10] Component 1 (main component)</a></span></br>
-><span style="margin-left: 50px;"><a href="#20">[20] Component 2</a></span></br>
-><span style="margin-left: 50px;"><a href="#50">[30] Component 3</a></span></br>
+><span style="margin-left: 50px;"><a href="#10">[10] Component 10 (main component)</a></span></br>
+><span style="margin-left: 50px;"><a href="#20">[20] Component 20</a></span></br>
+><span style="margin-left: 50px;"><a href="#30">[30] Component 30</a></span></br>
+><span style="margin-left: 50px;"><a href="#40">[30] ...</a></span></br>
 
 
 ## 
 
-<a name="0" id="10"></a>**10. Component 1 (main component)**<br />
+<a name="10" id="10"></a>**10. Component 10 (main component)**<br />
 
-Component 1 description.</br>
+Main component description.</br>
 <div align="right"><a href="#componentslist">Back to components list</a></div>
 
 ## 
 
-#### 20 Component 2
+<a name="10" id="20"></a>**20 Component 20**<br />
 
-Component 2 description.</br>
+Component 20 description.</br>
 <div align="right"><a href="#componentslist">Back to components list</a></div>
 
 ## 
 
-#### 30 Component 3
+<a name="30" id="10"></a>**30 Component 30**<br />
 
-Component 3 description.</br>
+Component 30 description.</br>
 <div align="right"><a href="#componentslist">Back to components list</a></div>
 
 
 <hr>
-
 
 
 ## <a name="images" id="images"></a>Screenshots
