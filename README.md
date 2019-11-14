@@ -176,13 +176,13 @@ Main component description.</br>
 
 ## 
 
-#### 20 Component 20 : blabbla
+#### 20. Component 20 : blabbla
 
 Component 20 description.</br>
 
 ## 
 
-#### 30 Component 30 : blabbla
+#### 30. Component 30 : blabbla
 
 Component 30 description.</br>
 <div align="right"><a href="#top">Back to top</a></div>
@@ -212,14 +212,14 @@ Main component description.</br>
 
 ## 
 
-<a name="10" id="20"></a>**20 Component 20**<br />
+<a name="10" id="20"></a>**20. Component 20**<br />
 
 Component 20 description.</br>
 <div align="right"><a href="#componentslist">Back to components list</a></div>
 
 ## 
 
-<a name="30" id="10"></a>**30 Component 30**<br />
+<a name="30" id="10"></a>**30. Component 30**<br />
 
 Component 30 description.</br>
 <div align="right"><a href="#componentslist">Back to components list</a></div>
