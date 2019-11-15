@@ -29,7 +29,7 @@ Short mod description
 
 This is a readme file template for GitHub for mods developed and/or hosted at SHS. It is written in Markdown language. Although it is close enough to the HTML language, some formatting are not supported by GitHub, such as color display.
 
-For each section, I took over, whenever possible, elements of readmes already published in order to maintain a semblance of consistency in the terms used. You just have to do is keep the ones you need (list of compatible games, installation procedures according to the platform, list of tools used...) and, for the rest, replace "MYMOD" and "Author" by the name of the mod and its author, modify the links and fill in the appropriate texts. For some sections,I have been as exhaustive as possible: all you have to do is choose the paragraphs that interest you and delete the others.
+For each section, I took over, whenever possible, elements of readmes already published in order to maintain a semblance of consistency in the terms used. You just have to keep the ones you need (list of compatible games, installation procedures according to the platform, list of tools used...) and, for the rest, replace "MYMOD" and "Author" by the name of the mod and its author, modify links and fill in appropriate texts. For some sections,I have been as exhaustive as possible: all you have to do is to choose paragraphs you are interested in and delete the others.
 
 
 <details><summary>CLICK ME</summary>
