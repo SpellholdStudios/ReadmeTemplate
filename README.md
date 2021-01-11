@@ -37,7 +37,7 @@ This is a readme file template for GitHub for mods developed and/or hosted at SH
 For each section, I took over, whenever possible, elements of readmes already published in order to maintain a semblance of consistency in the terms used. You just have to keep the ones you need (list of compatible games, installation procedures according to the platform, list of tools used...) and, for the rest, replace "MYMOD" and "Author" by the name of the mod and its author, modify links and fill in appropriate texts. For some sections,I have been as exhaustive as possible: all you have to do is to choose paragraphs you are interested in and delete the others.
 
 
-Short mod description
+Short mod description: Short mod description: obvious, isn't it? :wink:
 
 **Key features:**
 - Feature #1
@@ -46,9 +46,7 @@ Short mod description
 - Feature #4
 - ...
 
-&nbsp;
-
-**Note:** If you want to use more complex formating, please have a look <a href="https://github.com/GwendolyneFreddy/Infinity-Animations">here</a> and <a href="https://github.com/SpellholdStudios/1pp">there</a>.
+**Note:** If you want to use more complex formating, please have a look <a href="https://github.com/GwendolyneFreddy/Infinity-Animations">here</a> and <a href="https://github.com/SpellholdStudios/1pp">there</a>.<br>
 
 
 <details><summary>CLICK ME</summary>
@@ -63,7 +61,7 @@ GitHub markdown emoji listings:
 <ins>Tip to underline text</ins>
 
 </p>
-</details><br>
+</details>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
