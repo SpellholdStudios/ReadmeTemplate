@@ -2,7 +2,7 @@
 ![Latest Release](https://img.shields.io/static/v1?label=release&message=v1.0.0&color=darkred)<a name="top" id="top">
 ![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/ReadmeTemplate?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
-![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French%20%7C%20German%20%7C%20Italian%20%7C%20Russian%20%7C%20Spanish&color=limegreen)
+![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French%20%7C%20German%20%7C%20Italian%20%7C%20Polish%20%7C%20Russian%20%7C%20Spanish&color=limegreen)
 
 
 <div align="center"><h1>MYMOD</h1>
@@ -186,8 +186,8 @@ Here is a chart listing options related to the installation process (Don't chang
 
 | Option | Install Option Description | Type | Values | Default |
 | :---: | --- | :---: | :---: | :---: |
-| mymod_variable1 | blabla<br>1 = first value description (recommended).<br>2 = second value description.<br> | integer | 1 or 2 | <strong>1<strong> |
-| mymod_variable2 | blabla<br>1 = first value description (recommended).<br>2 = second value description.<br>3 = third value description.<br> | integer | 1, 2 or 3 | <strong>1<strong> |
+| mymod_variable1 | blabla<br>1 = first option description (recommended).<br>2 = second option description.<br> | integer | 1 or 2 | <strong>1<strong> |
+| mymod_variable2 | blabla<br>1 = first option description (recommended).<br>2 = second option description.<br>3 = third option description.<br> | integer | 1, 2 or 3 | <strong>1<strong> |
 | mymod_variable3 | blabla<br> | string | one character | <strong>A<strong> |
 | mymod_variable4 | blabla<br> | string | a name! | <strong>Hello<strong> |
 
@@ -238,7 +238,7 @@ The installer includes the following components. The number of each is the compo
 
 ## 
 
-><span style="margin-left: 50px;"><a href="#10">[10] Component blabla</a> <em>&nbsp;&nbsp;&nbsp;[main component]</em></span><</br>
+><span style="margin-left: 50px;"><a href="#10">[10] Component blabla</a> <em>&nbsp;&nbsp;&nbsp;[main component]</em></span></br>
 ><span style="margin-left: 50px;"><a href="#20">[20] Component blublu</a></span></br>
 ><span style="margin-left: 50px;"><a href="#30">[30] Component bloblo</a></span></br>
 ><span style="margin-left: 50px;"><a href="#40">[40] ...</a></span></br>
@@ -246,21 +246,21 @@ The installer includes the following components. The number of each is the compo
 
 ------------------------
 
-<a name="10" id="10"></a>&#10173; **&#10173; [10] Component blabla (main component)**<br><br>
+<a name="10" id="10"></a>&#10173; **[10] Component blabla (main component)**<br><br>
 
 Main component description.
 <div align="right"><a href="#componentslist">Back to components list</a></div>
 
 ## 
 
-<a name="10" id="20"></a>&#10173; **&#10173; [20] Component blublu**<br><br>
+<a name="10" id="20"></a>&#10173; **[20] Component blublu**<br><br>
 
 Component blublu description.
 <div align="right"><a href="#componentslist">Back to components list</a></div>
 
 ## 
 
-<a name="30" id="10"></a>&#10173; **&#10173; [30] Component bloblo**<br><br>
+<a name="30" id="10"></a>&#10173; **[30] Component bloblo**<br><br>
 
 Component bloblo description.
 <div align="right"><a href="#componentslist">Back to components list</a></div>
@@ -272,7 +272,7 @@ Component bloblo description.
 ## <a name="images" id="images"></a>Screenshots
 
 #### 1PP basic example (1ppv4: Spell tweaks)
-<div align="center"><img src="mydoc/readme/images/202.jpg"></div><br>
+<div align="center"><img src="images/202.jpg"></div><br>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
@@ -357,7 +357,7 @@ Pick what you think insightful:
 
 ## <a name="versions" id="versions"></a>Version History
 
->&#9755; If your mod is hosted at GitHub, you can save yourself trouble of creating mod packages manually by using this <a href="https://github.com/InfinityTools/InfinityAutoPackager">tool</a>. It produces zip and <a href="https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format">IEMod</a> packages for you when you create mod release. It is very easy to use and most SHS mods are released with it. For further documentation, please read <a href="https://forums.beamdog.com/discussion/78364/infinity-auto-packager-automatically-generate-and-adds-mod-packages-to-release-when-you-publish-it">this</a>.<br>
+>&#9755; If your mod is hosted at GitHub, you can save yourself trouble of creating mod packages manually by using this <a href="https://github.com/InfinityTools/InfinityAutoPackager">tool</a>. It produces zip and <a href="https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format">IEMod</a> packages for you when you create mod release. It is very easy to use and most SHS mods are released with it. For further documentation, please read <a href="https://forums.beamdog.com/discussion/78364/infinity-auto-packager-automatically-generate-and-adds-mod-packages-to-release-when-you-publish-it">this</a>.<br><br>
 
 
 #### Version 2.0.0 &nbsp;(Month Day, Year)
