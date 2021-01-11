@@ -46,6 +46,11 @@ Short mod description
 - Feature #4
 - ...
 
+&nbsp;
+
+**Note:** If you want to use more complex formating, please have a look <a href="https://github.com/GwendolyneFreddy/Infinity-Animations">here</a> and <a href="https://github.com/SpellholdStudios/1pp">there</a>.
+
+
 <details><summary>CLICK ME</summary>
 <p>
 
@@ -272,7 +277,7 @@ Component bloblo description.
 ## <a name="images" id="images"></a>Screenshots
 
 #### 1PP basic example (1ppv4: Spell tweaks)
-<div align="center"><img src="images/202.jpg"></div><br>
+<div align="center"><img src="mymod/readme/images/202.jpg"></div><br>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
@@ -357,8 +362,9 @@ Pick what you think insightful:
 
 ## <a name="versions" id="versions"></a>Version History
 
->&#9755; If your mod is hosted at GitHub, you can save yourself trouble of creating mod packages manually by using this <a href="https://github.com/InfinityTools/InfinityAutoPackager">tool</a>. It produces zip and <a href="https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format">IEMod</a> packages for you when you create mod release. It is very easy to use and most SHS mods are released with it. For further documentation, please read <a href="https://forums.beamdog.com/discussion/78364/infinity-auto-packager-automatically-generate-and-adds-mod-packages-to-release-when-you-publish-it">this</a>.<br><br>
+>&#9755; If your mod is hosted at GitHub, you can save yourself trouble of creating mod packages manually by using this <a href="https://github.com/InfinityTools/InfinityAutoPackager">tool</a>. It produces zip and <a href="https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format">IEMod</a> packages for you when you create mod release. It is very easy to use and most SHS mods are released with it. For further documentation, please read <a href="https://forums.beamdog.com/discussion/78364/infinity-auto-packager-automatically-generate-and-adds-mod-packages-to-release-when-you-publish-it">this</a>.<br>
 
+&nbsp;
 
 #### Version 2.0.0 &nbsp;(Month Day, Year)
 
