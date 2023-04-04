@@ -299,12 +299,14 @@ Component bloblo description.
 - <a href="https://www.blender.org/">Blender</a>, by the Blender Foundation.
 - <a href="https://www.autodesk.com/products/3ds-max/overview">3ds Max</a>.
 - <a href="http://notepad-plus-plus.org/">Notepad++</a>, by the Notepad++ team, Don Ho, and the spellcheck plug-in.
-- <a href="http://www.shsforums.net/files/file/1048-weidu-highlighter-for-notepad/">WeiDU Notepad++ Highlighters </a>, by Argent77.
+- <a href="http://www.shsforums.net/files/file/1048-weidu-highlighter-for-notepad/">WeiDU Highlighter for Notepad++</a>, by Argent77.
 - <a href="http://www.context.cx/">ConTEXT Text Editor</a>, by Eden Kirin.
 - <a href="https://www.gibberlings3.net/mods/tools/weidu/">WeiDU ConTEXT Highlighters </a>, by Idobek, updated by cmorgan.
 - <a href="http://www.editpadpro.com/editpadclassic.html">EditPad Classic</a>, by Jan Goyvaerts.
 - <a href="http://www.pspad.com/en/">PSPad</a>, by Jan Fiala.
 - <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a>, by TGRMN Software.
+- <a href="https://code.visualstudio.com/">Visual Studio Code</a>, modern, cross-platform editor.
+- <a href="https://marketplace.visualstudio.com/items?itemName=BGforge.bgforge-mls/">Visual Studio Code - BGforge MLS</a> - Syntax highlighting and more.
 
 ## 
 
