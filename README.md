@@ -302,7 +302,7 @@ Component bloblo description.
 - <a href="http://www.shsforums.net/files/file/1048-weidu-highlighter-for-notepad/">WeiDU Highlighter for Notepad++</a>, by Argent77.
 - <a href="http://www.context.cx/">ConTEXT Text Editor</a>, by Eden Kirin.
 - <a href="https://www.gibberlings3.net/mods/tools/weidu/">WeiDU ConTEXT Highlighters </a>, by Idobek, updated by cmorgan.
-- <a href="http://www.editpadpro.com/editpadclassic.html">EditPad Classic</a>, by Jan Goyvaerts.
+- <a href="https://www.editpadlite.com/editpadclassic.html">EditPad Classic</a>, by Jan Goyvaerts.
 - <a href="http://www.pspad.com/en/">PSPad</a>, by Jan Fiala.
 - <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a>, by TGRMN Software.
 - <a href="https://code.visualstudio.com/">Visual Studio Code</a>, modern, cross-platform editor.
