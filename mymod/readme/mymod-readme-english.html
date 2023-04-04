@@ -223,15 +223,14 @@
             <a href="https://github.com/ALIENQuake/ProjectInfinity/wiki/Adding-metadata-for-mod">Example of the mymod.ini metadata file</a>
         </p>
 
-		<p>It is very easy. Let's take the mymod/Divine Remix installation order. All you need to do is to fill the following line in mymod.ini:
+		<p>
+            It is very easy. If your mod must be installed <strong>after</strong> for eg: BG2Fxpack, EET and Divine Remix mods, all you need to do is to fill the following line in mymod.ini, using tp2 name without .tp2 extention:
 		</p>
 
 		<div class="important_tuto">
 			<p>
-			<pre>
-                # This mod must be installed *after* those ModID listed below, comma-separated list:
-                After = bg2fixpack, EET, divine_remix
-            </pre>
+			<pre># This mod must be installed *after* those ModID listed below, comma-separated list:
+After = bg2fixpack, EET, divine_remix</pre>
 			</p>
 		</div><br>
 
@@ -239,7 +238,7 @@
 		</p><br>
 
 		<p>
-			&#10173; &#9888;&#65039; <strong>At last, please never forget that metadata keywords implementation has still a WIP status. Thus, you are strongly recommended checking the last version of .ini files <a href="https://github.com/ALIENQuake/ProjectInfinity/wiki">here</a></strong>.
+			&#10173; &#9888;&#65039; <strong>You are strongly recommended checking the last version of .ini files <a href="https://github.com/ALIENQuake/ProjectInfinity/wiki">here</a></strong>.
 		</p><br>
 
 		<address>
