@@ -115,7 +115,7 @@ If you encounter any bugs, please report them on the forum!
 
 *If you've previously installed the mod, remove it before extracting the new version. To do this, run **`setup-mymod.exe`**, un-install all previously installed components and delete the :file_folder: **mymod** folder.*
 
-*When installing or un-installing, **do not close the DOS window** by clicking on the **X** button! Instead, press the **Enter** key whenever instructed to do so.*
+*When installing or un-installing, **do not close the Console window** by clicking on the **X** button! Instead, press the **Enter** key whenever instructed to do so.*
 
 *__Disable any antivirus__ or other memory-resident software before installing this or any other mod. Some (particularly avast and Norton!) have a tendency to report false positives with mod activity, resulting in failed installs.*
 
