@@ -117,7 +117,7 @@ If you encounter any bugs, please report them on the forum!
 
 *When installing or un-installing, **do not close the Console window** by clicking on the **X** button! Instead, press the **Enter** key whenever instructed to do so.*
 
-*__Disable any antivirus__ or other memory-resident software before installing this or any other mod. Some (particularly avast and Norton!) have a tendency to report false positives with mod activity, resulting in failed installs.*
+*__Disable any antivirus__ or other memory-resident software before installing this or any other mod. Some (particularly Avast and Norton!) have a tendency to report false positives with mod activity, resulting in failed installs.*
 
 ## 
 
