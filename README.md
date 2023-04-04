@@ -307,7 +307,7 @@ Component bloblo description.
 - <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a>, by TGRMN Software.
 - <a href="https://code.visualstudio.com/">Visual Studio Code</a>, modern, cross-platform editor.
 - <a href="https://marketplace.visualstudio.com/items?itemName=BGforge.bgforge-mls/">Visual Studio Code - BGforge MLS</a> - Syntax highlighting and more.
-
+- <a href="https://github.com/InfinityTools/InfinityAutoPackager/">Infinity Auto Packager</a>, automatically generates Infinity Engine mod packages.
 ## 
 
 #### Copyright Information
