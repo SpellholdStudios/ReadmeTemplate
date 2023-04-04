@@ -137,7 +137,7 @@ The Enhanced Editions are actively supported games. Please note that every patch
 
 MYMOD for Windows is distributed as an extractable compressed archive and includes a WeiDU installer.
 
-Extract the contents of the mod archive into the folder of the game you wish to modify (*the folder which contains the "CHITIN.KEY" file*), using <a href="http://www.7-zip.org/download.html">7zip</a>, <a href="http://www.rarlab.com/download.htm">WinRAR</a>, <a href="http://www.zipgenius.it/ita/?page_id=12">ZipGenius</a>, or another file compression utility that handles .zip files. On successful extraction, there should be a :file_folder: mymod folder and a setup-mymod.exe file in your game folder. To install, simply double-click **`setup-mymod.exe`** and follow the instructions on screen.
+Extract the contents of the mod archive into the folder of the game you wish to modify (*the folder which contains the "CHITIN.KEY" file*), using <a href="http://www.7-zip.org/download.html">7zip</a>, <a href="http://www.rarlab.com/download.htm">WinRAR</a>, <a href="https://zipgenius.com/">ZipGenius</a>, or another file compression utility that handles .zip files. On successful extraction, there should be a :file_folder: mymod folder and a setup-mymod.exe file in your game folder. To install, simply double-click **`setup-mymod.exe`** and follow the instructions on screen.
 
 Run **`setup-mymod.exe`** in your game folder to reinstall, un-install or otherwise change the components settings.
 
