@@ -172,32 +172,7 @@ In addition to the methods above for removing individual components, you can com
 
 ## 
 
-#### :warning: Warning : Installation process
-
-###### Configuration options needed for installation are read from *<a href="../mymod-config-default.ini"><em>mymod-config-default.ini</a>* file, or *mymod-config-user.ini* if it exists.
-
-As interrupting installation with plain text prompts allowing players to customise components to their liking is not compatible with most mods managers, all those options set during installation have been moved into <a href="../mymod-config-default.ini">mymod-config-default.ini</a> file in :file_folder: **mymod** folder. This file provides a '*default*' installation.
-
-If you want to define your own customized installation, you have to edit the **_mymod-config-default.ini_** (found in :file_folder: myfolder folder) with Notepad or another text editor, then save it as *_mymod-config-user.ini_*.
-
-Each line consists of a configuration option, then '=', then a number or an alphanumeric character string. The only thing you should edit is the number or the string.
-
-The installation process will read both .ini files and prioritize user's options values. If a value is not set or mismatched in mymod-config-user.ini, any installation failure will be prevented by reverting it back to its default value.
-
-Here is a chart listing options related to the installation process (Don't change anything not listed; these are part of the testing framework.):<br><br>
-
-| Option | Install Option Description | Type | Values | Default |
-| :---: | --- | :---: | :---: | :---: |
-| mymod_variable1 | blabla<br>1 = first option description (recommended).<br>2 = second option description.<br> | integer | 1 or 2 | <strong>1<strong> |
-| mymod_variable2 | blabla<br>1 = first option description (recommended).<br>2 = second option description.<br>3 = third option description.<br> | integer | 1, 2 or 3 | <strong>1<strong> |
-| mymod_variable3 | blabla<br> | string | one character | <strong>A<strong> |
-| mymod_variable4 | blabla<br> | string | a name! | <strong>Hello<strong> |
-
-<div align="right"><a href="#top">Back to top</a></div>
-
-
 <hr>
-
 
 ## <a name="components" id="components"></a>Components
 
